@@ -1,4 +1,4 @@
-# eXtreme Multi-label Text Classification with BERT
+# eXtreme Multi-label Text Classification with BERT (clone)
 
 This is a README for the experimental code in our paper
 >[X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/pdf/1905.02331.pdf)
